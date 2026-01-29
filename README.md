@@ -14,6 +14,7 @@ This project was created to practice Python basics such as loops, conditionals, 
 - Limited number of attempts
 - Input validation using try-except
 - Feedback for each guess (Too high / Too low)
+- Best score is tracked during the current game session.
 
 ---
 
